@@ -1,7 +1,6 @@
 /**
  * A class that drives the encryption, decryption, and storage of text.
  *
- * @author maha
  * @author Aidan Grupac
  */
 public class ThreeTenCipher {
