@@ -1,7 +1,7 @@
 import java.util.Random;
 /**
  * A class that handles the encryption and decryption of text.
- * @author maha
+ *
  * @author Aidan Grupac
  */
 public class EncryptDecrypt {
